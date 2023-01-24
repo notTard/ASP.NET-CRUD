@@ -1,0 +1,17 @@
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.deps.json
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.pdb
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Application.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Domain.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Application.pdb
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\bin\Debug\net6.0\Notes.Domain.pdb
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.AssemblyReference.cache
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.AssemblyInfoInputs.cache
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.AssemblyInfo.cs
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.CopyComplete
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\refint\Notes.Persistence.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.pdb
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Persistence\obj\Debug\net6.0\ref\Notes.Persistence.dll

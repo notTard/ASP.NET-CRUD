@@ -1,0 +1,12 @@
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\bin\Debug\net6.0\Notes.Domain.deps.json
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\bin\Debug\net6.0\Notes.Domain.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\bin\Debug\net6.0\Notes.Domain.pdb
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.csproj.AssemblyReference.cache
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.AssemblyInfo.cs
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\refint\Notes.Domain.dll
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\Notes.Domain.pdb
+C:\Users\Bogich\Desktop\projectos\sharpProjects\Notes App\Notes.Domain\obj\Debug\net6.0\ref\Notes.Domain.dll

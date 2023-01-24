@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{561226EB-F324-4555-B305-527CDED46784}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{ABEC7D13-2493-496A-9CBA-F2B313554440}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{E6D55172-FA9E-46D8-9B4D-B2A5C5772A19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{870A2CD5-3D79-4677-BD01-6AD93A25797C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Domain", "Notes.Domain\Notes.Domain.csproj", "{AD724F4C-0EA0-41BB-9889-A212D053B942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Application", "Notes.Application\Notes.Application.csproj", "{4790E4CF-B274-47A1-B6D0-7FD54F6B9373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Persistence", "Notes.Persistence\Notes.Persistence.csproj", "{8E4C3E7C-F055-403C-BDA4-43ED8D274624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.WebAPI", "Notes.WebAPI\Notes.WebAPI.csproj", "{7E713C87-E742-4DA3-B211-0665C90F8256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD724F4C-0EA0-41BB-9889-A212D053B942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD724F4C-0EA0-41BB-9889-A212D053B942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD724F4C-0EA0-41BB-9889-A212D053B942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD724F4C-0EA0-41BB-9889-A212D053B942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4790E4CF-B274-47A1-B6D0-7FD54F6B9373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4790E4CF-B274-47A1-B6D0-7FD54F6B9373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4790E4CF-B274-47A1-B6D0-7FD54F6B9373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4790E4CF-B274-47A1-B6D0-7FD54F6B9373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4C3E7C-F055-403C-BDA4-43ED8D274624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4C3E7C-F055-403C-BDA4-43ED8D274624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4C3E7C-F055-403C-BDA4-43ED8D274624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4C3E7C-F055-403C-BDA4-43ED8D274624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E713C87-E742-4DA3-B211-0665C90F8256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E713C87-E742-4DA3-B211-0665C90F8256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E713C87-E742-4DA3-B211-0665C90F8256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E713C87-E742-4DA3-B211-0665C90F8256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD724F4C-0EA0-41BB-9889-A212D053B942} = {561226EB-F324-4555-B305-527CDED46784}
+		{4790E4CF-B274-47A1-B6D0-7FD54F6B9373} = {561226EB-F324-4555-B305-527CDED46784}
+		{8E4C3E7C-F055-403C-BDA4-43ED8D274624} = {ABEC7D13-2493-496A-9CBA-F2B313554440}
+		{7E713C87-E742-4DA3-B211-0665C90F8256} = {E6D55172-FA9E-46D8-9B4D-B2A5C5772A19}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D0EBA5-5262-474A-9A67-DFE9FD141D2A}
+	EndGlobalSection
+EndGlobal
